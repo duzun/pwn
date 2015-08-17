@@ -42,7 +42,7 @@ obj.set('frequency', 440) // returns 440
  * as callback(obj, {
  *   p: property,
  *   w: wornValue, // (oldValue)
- *   n, value
+ *   n: value
  * })
  */
 ```
